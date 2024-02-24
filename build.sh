@@ -4,4 +4,4 @@
 pip install --upgrade pip
 
 # Install required packages
-pip install package1 package2 package3
+pip install -r requirements.txt
